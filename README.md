@@ -32,7 +32,7 @@
          
 <td>
  <div id="badges">
-  <a href="https://msng.link/o/?@Nidhin_47=tg" data-inline="true">
+  <a href="https://t.me/Nidhin_47" data-inline="true">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Whatsapp"/>
   </a>
  </div>
