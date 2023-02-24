@@ -5,6 +5,7 @@
 - 👀 I’m interested in digital electronics and semiconductors
 - 🌱 I’m currently learning btech in electonics and communication from cusat
 - 💞️ I’m looking to collaborate on RTL coding
+- 📫 How to reach me? mail me @nidhinchandran470@gmail.com
  <a href="https://www.linkedin.com/in/nidhinchandran47/" data-inline="true">
     <img  align="center" src="https://img.shields.io/badge/Nidhin Chandran-blue?style=for-the-badge&logo=linkedin&logoColor=white&align=center" alt="LinkedIn Badge"/>
   </a>
