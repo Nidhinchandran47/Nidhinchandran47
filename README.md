@@ -13,7 +13,7 @@
   </div>
 <div id="badges">
   <a href="https://wa.me/%2B918301960200" data-inline="true">
-    <img src="https://img.shields.io/badge/Whatsapp-success?" alt="Whatsapp"/>
+    <img src="https://img.shields.io/badge/ #Whatsapp# -success?" alt="Whatsapp"/>
   </a>
  </div>
 <!---
