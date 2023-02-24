@@ -13,7 +13,12 @@
   </div>
 <div id="badges">
   <a href="https://wa.me/%2B918301960200" data-inline="true">
-    <img src="https://img.shields.io/badge/ #Whatsapp# -success?" alt="Whatsapp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+ </div>
+ <div id="badges">
+  <a href="https://msng.link/o/?@Nidhin_47=tg" data-inline="true">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Whatsapp"/>
   </a>
  </div>
 <!---
