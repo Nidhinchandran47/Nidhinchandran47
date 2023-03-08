@@ -31,8 +31,6 @@
  </td>
          
 <td>
- 
-  ### <img align="center" src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="80px"/>
 
  
  <div id="badges">
@@ -46,7 +44,9 @@
 </div>
 
 
-
+ <div align="center" >
+  <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="50px"/>
+</div>
 
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhinchandran47&theme=highcontrast" alt="Nidhinchandran47" /></p>
