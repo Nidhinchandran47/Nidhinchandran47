@@ -31,6 +31,9 @@
  </td>
          
 <td>
+ 
+ 
+ 
  <div id="badges">
   <a href="https://t.me/Nidhin_47" data-inline="true">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Whatsapp"/>
@@ -42,6 +45,19 @@
 </div>
 
 
+
+<hr>
+
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhinchandran47&theme=react" alt="Nidhinchandran47" /></p>
+
+<hr>
+
+<hr>
+
+### <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="35px"/>
+<a href="https://activity-graph.herokuapp.com/graph?username=Nidhinchandran47"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nidhinchandran47&theme=react" /></a>
+<hr>
+<hr>
  
 <!---
 Nidhinchandran47/Nidhinchandran47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
