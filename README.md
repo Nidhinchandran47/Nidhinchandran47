@@ -53,11 +53,13 @@
  </div>
 </td>
  </tr>
- <td>
-   <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="50px"/>
- </td>
+ 
     </table>
 </div>
+
+
+   <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="50px"/>
+
 <!---
 Nidhinchandran47/Nidhinchandran47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
