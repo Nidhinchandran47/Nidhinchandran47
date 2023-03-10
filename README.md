@@ -11,6 +11,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=highcontrast)](https://github.com/Nidhinchandran47/github-readme-stats)
  
  
+
+
+</n>
+
+
+
+ 
+ 
+
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhinchandran47&theme=highcontrast" alt="Nidhinchandran47" /></p>
+
+
+
+
+<a href="https://activity-graph.herokuapp.com/graph?username=Nidhinchandran47"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nidhinchandran47&theme=react" card_width=500 /></a>
+
+
+
+
  <div>
     <table align="left">
         <tr>
@@ -45,23 +66,6 @@
  </td>
     </table>
 </div>
-
-</n>
-
-
-
- 
- 
-
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhinchandran47&theme=highcontrast" alt="Nidhinchandran47" /></p>
-
-
-
-
-<a href="https://activity-graph.herokuapp.com/graph?username=Nidhinchandran47"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nidhinchandran47&theme=react" /></a>
-
 <!---
 Nidhinchandran47/Nidhinchandran47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
