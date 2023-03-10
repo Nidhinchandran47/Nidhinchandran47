@@ -40,6 +40,9 @@
  </div>
 </td>
  </tr>
+ <td>
+   <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="50px"/>
+ </td>
     </table>
 </div>
 
@@ -48,7 +51,7 @@
 
 
  
-  <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="50px"/>
+ 
 
 
 
