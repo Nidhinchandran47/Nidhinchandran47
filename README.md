@@ -27,7 +27,7 @@
 
 
 
-<a href="https://activity-graph.herokuapp.com/graph?username=Nidhinchandran47"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nidhinchandran47&theme=react" card_width=500 /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=Nidhinchandran47"><img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nidhinchandran47&theme=high-contrast&card_width=500"  /></a>
 
 
 
