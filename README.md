@@ -8,9 +8,9 @@
 - 📫 How to reach me? mail me @nidhinchandran470@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=highcontrast)](https://github.com/Nidhinchandran47/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=ayu-light)](https://github.com/Nidhinchandran47/github-readme-stats)
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47&theme=ayu-light)](https://git.io/streak-stats)
 
 [![my github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nidhinchandran47&custom_title=My%20github%20activity%20graph&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true )](https://github.com/Nidhinchandran47)
 
