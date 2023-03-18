@@ -1,6 +1,5 @@
  # 👋 Hi, I’m NIDHIN CHANDRAN 
 
-1
 
 - 👀 I’m interested in digital electronics and semiconductors
 - 🌱 I’m currently learning btech in electonics and communication from cusat
