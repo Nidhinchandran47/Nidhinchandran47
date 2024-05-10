@@ -13,7 +13,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47&theme=ayu-light)](https://git.io/streak-stats)
 
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
+<img src="[www.linkedin.com/in/nidhinchandran47]?username=[nidhinchandran47]" />
 
 <!--
  <div>
