@@ -1,18 +1,17 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Nidhin Chandran.</h1>
 
 
-> - 👀 &nbsp;I’m interested in digital electronics and semiconductors
-> - 🌱 &nbsp;I’m currently learning btech in electonics and communication from cusat
+> - 👀 &nbsp;I’m interested in Front-end VLSI Design
+> - 🌱 &nbsp;I’m currently learning Verification (UVM)
 > - 💞️ &nbsp;I’m looking to collaborate on RTL coding
 > - 📫 &nbsp;How to reach me? mail me @nidhinchandran470@gmail.com
   
 🔗 &nbsp;**My Free-time Crafts**
 
-- 📝 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a>
+- 📝 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=ayu-light)](https://github.com/Nidhinchandran47/github-readme-stats)
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47&theme=ayu-light)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=ayu-light)](https://github.com/Nidhinchandran47/github-readme-stats) 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47&theme=ayu-light)](https://git.io/streak-stats)
 
 
 <!--
