@@ -8,9 +8,9 @@
 
 
 📫 &nbsp;**How to reach me?**
-> - [Email](mailto:nidhinchandran470@gmail.com)
-> - [Twitter](https://twitter.com/nidhin_47)
-> - [LinkedIn](https://www.linkedin.com/in/nidhinchandran47)
+> - 📧 [Email](mailto:nidhinchandran470@gmail.com)
+> - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="20"/> [Twitter](https://twitter.com/nidhin_47)
+> - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/nidhinchandran47)
   
 🔗 &nbsp;**My Free-time Crafts**
 
