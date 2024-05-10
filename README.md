@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Nidhin Chandran.</h1>
 
 
-- 👀 I’m interested in digital electronics and semiconductors
-- 🌱 I’m currently learning btech in electonics and communication from cusat
-- 💞️ I’m looking to collaborate on RTL coding
-- 📫 How to reach me? mail me @nidhinchandran470@gmail.com
+- 👀 &nbsp;I’m interested in digital electronics and semiconductors
+- 🌱 &nbsp;I’m currently learning btech in electonics and communication from cusat
+- 💞️ &nbsp;I’m looking to collaborate on RTL coding
+- 📫 &nbsp;How to reach me? mail me @nidhinchandran470@gmail.com
 
 - 💫 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a>
 
