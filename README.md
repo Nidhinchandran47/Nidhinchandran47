@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Nidhin Chandran.</h1>
 
 
-- 👀 &nbsp;I’m interested in digital electronics and semiconductors
-- 🌱 &nbsp;I’m currently learning btech in electonics and communication from cusat
-- 💞️ &nbsp;I’m looking to collaborate on RTL coding
-- 📫 &nbsp;How to reach me? mail me @nidhinchandran470@gmail.com
+> - 👀 &nbsp;I’m interested in digital electronics and semiconductors
+> - 🌱 &nbsp;I’m currently learning btech in electonics and communication from cusat
+> - 💞️ &nbsp;I’m looking to collaborate on RTL coding
+> - 📫 &nbsp;How to reach me? mail me @nidhinchandran470@gmail.com
   
 🔗 &nbsp;**My Free-time Crafts**
 
