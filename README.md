@@ -5,8 +5,8 @@
 - 🌱 &nbsp;I’m currently learning btech in electonics and communication from cusat
 - 💞️ &nbsp;I’m looking to collaborate on RTL coding
 - 📫 &nbsp;How to reach me? mail me @nidhinchandran470@gmail.com
-
-- 💫 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a>
+🔗 &nbsp;**My Free-time Crafts**
+- 📝 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=ayu-light)](https://github.com/Nidhinchandran47/github-readme-stats)
  
