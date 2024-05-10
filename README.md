@@ -1,56 +1,25 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Nidhin Chandran.</h1>
 
 
-> - 👀 &nbsp;I’m interested in digital electronics and semiconductors
-> - 🌱 &nbsp;I’m currently learning btech in electonics and communication from cusat
-> - 💞️ &nbsp;I’m looking to collaborate on RTL coding
-> - 📫 &nbsp;How to reach me? mail me @nidhinchandran470@gmail.com
+> - 👀 &nbsp;I’m interested in Front-end VLSI Design 
+> - 🌱 &nbsp;I’m always learning new technologies and methodologies to improve my skills and expand my knowledge.
+> - 💞️ &nbsp;I’m looking for moments of peace
+> - ⚡ &nbsp;Fun Fact : "I'm always there, front and center, for every Liverpool game." #YNWA
+
+
+📫 &nbsp;**How to reach me?**
+> - 📧 [Email](mailto:nidhinchandran470@gmail.com)
+> - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="20"/> [Twitter](https://twitter.com/nidhin_47)
+> - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/nidhinchandran47)
   
 🔗 &nbsp;**My Free-time Crafts**
 
-- 📝 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a>
+- 📝 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=ayu-light)](https://github.com/Nidhinchandran47/github-readme-stats)
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47&theme=ayu-light)](https://git.io/streak-stats)
-
-
-<!--
- <div>
-    <table align="left">
-        <tr>
-<td>
- <div id="badges" >
- <a href="https://www.linkedin.com/in/nidhinchandran47/" data-inline="true">
-    <img  align="center" src="https://img.shields.io/badge/Nidhin Chandran-blue?style=for-the-badge&logo=linkedin&logoColor=white&align=center" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-</td>
-         
-<td>
-   <div id="badges">
-  <a href="https://wa.me/%2B918301960200" data-inline="true">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  </a>
- </div>          
- </td>
-         
-<td>
-
- 
- <div id="badges">
-  <a href="https://t.me/Nidhin_47" data-inline="true">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Whatsapp"/>
-  </a>
- </div>
-</td>
- </tr>
-    </table>
-</div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=500&langs_count=8&theme=ayu-light)](https://github.com/Nidhinchandran47/github-readme-stats) 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47&theme=ayu-light)](https://git.io/streak-stats)
 
 
-   <img src="https://github.com/nayanprasad/nayanprasad/blob/main/graph-giphy.gif" width="50px"/>
---!>
 <!---
 Nidhinchandran47/Nidhinchandran47 is a ✨ special ✨ repository because its `README.md` (this file) appears  on your GitHub profile.
 You can click the Preview link to take a look at your changes.
