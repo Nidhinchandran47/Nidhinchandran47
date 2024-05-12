@@ -12,7 +12,7 @@
 > - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="20"/> [Twitter](https://twitter.com/nidhin_47)
 > - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/nidhinchandran47)
   
-🔗 &nbsp;**My Free-time Crafts**
+🔗 &nbsp;**My Free-time Crafts** (Made by Notion)
 
 - 📝 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a> 
 
