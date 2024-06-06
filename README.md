@@ -18,7 +18,7 @@
 > - <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" width="24"/>
 > - 🔦 <a href="https://nidhin47.notion.site/Digital-Electronics-1-98cfec1dc0c04c41b678e02fbd094370?pvs=4"> Digital Electronics Notes</a>
 
-🔗 &nbsp;**I'm Currently Buzy with**
+🎯 &nbsp;**I'm Currently Buzy with**
 > - 🤖 DV200
 > - 👾 [HDL Bits Solutions](https://github.com/Nidhinchandran47/HDLbits-Solutions)
 
