@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Nidhin Chandran.</h1>
+![github-header-image](https://github.com/Nidhinchandran47/Nidhinchandran47/assets/96820094/b6c30805-670f-41af-bdc1-973a09d4b08c)
+
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my GitHub!</h1>
 
 >  [!TIP]
 > - 👀 &nbsp;I’m interested in Front-end VLSI Design 
