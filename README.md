@@ -5,7 +5,7 @@
 
 >  [!TIP]
 > - 👀 &nbsp;I’m interested in Front-end VLSI Design 
-> - 🌱 &nbsp;I’m always learning new technologies and methodologies to improve my skills and expand my knowledge.
+> - 🌱 &nbsp;I’m always learning System Verilog and UVM.
 > - 💞️ &nbsp;I’m looking for moments of peace
 > - ⚡ &nbsp;Fun Fact : "I'm always there, front and center, for every Liverpool game." #YNWA
 
