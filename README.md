@@ -43,6 +43,7 @@
 > - 👾 [HDL Bits Solutions](https://github.com/Nidhinchandran47/HDLbits-Solutions)
 > - 
 
+
   
 </td>
 </tr>
@@ -56,7 +57,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=470&card_height=180&langs_count=10&theme=vue-dark&hide_border=true&border_radius=11.4&bg_color=00000000&text_color=41b883)](https://github.com/Nidhinchandran47) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nidhinchandran47&theme=vue-dark&hide_border=true&border_radius=11.4&card_width=470&card_height=180&ring=FF6723&fire=FFB02E&dates=41B581C1&currStreakNum=EB5454&background=00000000)](https://github.com/Nidhinchandran47)
 
- <!---[![GitHub Streak](https://streak-stats.demolab.com/?user=Nidhinchandran47&theme=vue)](https://git.io/streak-stats)
-
---->
+ 
 
