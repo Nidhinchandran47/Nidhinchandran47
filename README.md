@@ -1,6 +1,6 @@
-
-![github-header-image (2)](https://github.com/user-attachments/assets/a58cc6fe-ee9f-47e2-8c2f-ea7ecca8ed5e)
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a58cc6fe-ee9f-47e2-8c2f-ea7ecca8ed5e"/>
+</div>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my GitHub!</h1>
 
 >  [!TIP]
