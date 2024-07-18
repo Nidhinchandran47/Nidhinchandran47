@@ -1,5 +1,5 @@
-![github-header-image](https://github.com/Nidhinchandran47/Nidhinchandran47/assets/96820094/b6c30805-670f-41af-bdc1-973a09d4b08c)
 
+![github-header-image (2)](https://github.com/user-attachments/assets/a58cc6fe-ee9f-47e2-8c2f-ea7ecca8ed5e)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to my GitHub!</h1>
 
