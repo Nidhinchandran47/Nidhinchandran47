@@ -56,13 +56,29 @@
      
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&card_width=470&card_height=180&langs_count=10&theme=vue-dark&hide_border=true&border_radius=11.4&bg_color=00000000&text_color=41b883)](https://github.com/Nidhinchandran47) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nidhinchandran47&theme=vue-dark&hide_border=true&border_radius=11.4&card_width=470&card_height=180&ring=FF6723&fire=FFB02E&dates=41B581C1&currStreakNum=EB5454&background=00000000)](https://github.com/Nidhinchandran47)-->
-
 <div align="center">
- <img
-src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
-          alt="My Language stats"
-          width="280"  />
+<a href="https://github.com/Nidhinchandran47#gh-light-mode-only">
+  <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
+            alt="My Language stats"
+            width="280"
+          />
+    
+</a>
 </div>
+<div align="center">
+<!-- GRS (Dark Mode) -->
+<a href="https://github.com/Nidhinchandran47#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
+          alt="My Language stats"
+          width="280"
+        />
+</a>
+</div>
+
+
+   
 
 <!-- Streak stats (Light mode) -->
 <div align="center">
