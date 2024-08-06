@@ -9,6 +9,7 @@
 > - 💞️ &nbsp;I’m looking for moments of peace
 > - ⚡ &nbsp;Fun Fact : "I'm always there, front and center, for every Liverpool game." #YNWA
 
+🏄🏼‍♀️[protfolio](https://nidhin47.notion.site/N-I-D-H-I-N-C-H-A-N-D-R-A-N-556aedecd5c747eb8e25c7686ceafec7)
 
 <table>
 <thead>
