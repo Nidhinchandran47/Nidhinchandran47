@@ -33,7 +33,7 @@
 
   > [!WARNING]
   > - 📝 <a href="https://nidhin47.notion.site/LaTex-Cheat-Sheet-52ecdedffca8447dae988bf5d9b090ad?pvs=4"> LaTeX Cheat Sheet</a>
-  > - <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" width="24"/>
+  > - <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" width="24"/>  <a href="https://nidhin47.notion.site/VIM-Cheat-sheet-e3386001bfc64e96beceb80a66e14465?pvs=74"> VIM Cheat Sheet </a>
   > - 🔦 <a href="https://nidhin47.notion.site/Digital-Electronics-1-98cfec1dc0c04c41b678e02fbd094370?pvs=4"> Digital Electronics Notes</a>
 
 </td>
