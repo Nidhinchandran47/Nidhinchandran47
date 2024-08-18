@@ -66,7 +66,7 @@
 </a>
 </div>
 <div align="center">
-<!-- GRS (Dark Mode) -->
+
 <a href="https://github.com/Nidhinchandran47#gh-dark-mode-only">
         <img
           src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Nidhinchandran47&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-dark-mode-only"
@@ -77,9 +77,7 @@
 </div>
 
 
-   
 
-<!-- Streak stats (Light mode) -->
 <div align="center">
   <a href="https://github.com/Nidhinchandran47#gh-light-mode-only">
     <img
@@ -90,7 +88,6 @@
 </div>
 
 
-<!-- Streak stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/Nidhinchandran47#gh-dark-mode-only">
     <img
